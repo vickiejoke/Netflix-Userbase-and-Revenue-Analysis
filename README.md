@@ -1,6 +1,6 @@
 # Netflix-Userbase-and-Revenue-Analysis
 This project contains an analysis of a hypothetical Netflix's user base and revenue data. The project utilizes Microsoft Excel for data processing and for creating interactive dashboards to provide insights into user demographics, revenue distribution, and device usage patterns.
-
+https://docs.google.com/spreadsheets/d/1V3SNO1zVD4rLkVy8waJ5mgqukj-82dKJ/edit?usp=sharing&ouid=110731602040367562366&rtpof=true&sd=true
 ## Dataset Description
 
 - **File Name**: `Netflix Userbase.csv`
